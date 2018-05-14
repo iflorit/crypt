@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Crypto</string>
+    <string name="title_tvshow_detail">Crypto Detail</string>
+    <string name="rating">Rating:</string>
+</resources>
